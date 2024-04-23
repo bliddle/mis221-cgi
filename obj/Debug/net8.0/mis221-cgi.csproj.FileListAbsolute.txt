@@ -1,0 +1,17 @@
+/Users/baileygraceliddle/Documents/mis221/cgi/project/mis221-cgi/bin/Debug/net8.0/mis221-cgi
+/Users/baileygraceliddle/Documents/mis221/cgi/project/mis221-cgi/bin/Debug/net8.0/mis221-cgi.deps.json
+/Users/baileygraceliddle/Documents/mis221/cgi/project/mis221-cgi/bin/Debug/net8.0/mis221-cgi.runtimeconfig.json
+/Users/baileygraceliddle/Documents/mis221/cgi/project/mis221-cgi/bin/Debug/net8.0/mis221-cgi.dll
+/Users/baileygraceliddle/Documents/mis221/cgi/project/mis221-cgi/bin/Debug/net8.0/mis221-cgi.pdb
+/Users/baileygraceliddle/Documents/mis221/cgi/project/mis221-cgi/bin/Debug/net8.0/Newtonsoft.Json.dll
+/Users/baileygraceliddle/Documents/mis221/cgi/project/mis221-cgi/obj/Debug/net8.0/mis221-cgi.csproj.AssemblyReference.cache
+/Users/baileygraceliddle/Documents/mis221/cgi/project/mis221-cgi/obj/Debug/net8.0/mis221-cgi.GeneratedMSBuildEditorConfig.editorconfig
+/Users/baileygraceliddle/Documents/mis221/cgi/project/mis221-cgi/obj/Debug/net8.0/mis221-cgi.AssemblyInfoInputs.cache
+/Users/baileygraceliddle/Documents/mis221/cgi/project/mis221-cgi/obj/Debug/net8.0/mis221-cgi.AssemblyInfo.cs
+/Users/baileygraceliddle/Documents/mis221/cgi/project/mis221-cgi/obj/Debug/net8.0/mis221-cgi.csproj.CoreCompileInputs.cache
+/Users/baileygraceliddle/Documents/mis221/cgi/project/mis221-cgi/obj/Debug/net8.0/mis221-cgi.csproj.CopyComplete
+/Users/baileygraceliddle/Documents/mis221/cgi/project/mis221-cgi/obj/Debug/net8.0/mis221-cgi.dll
+/Users/baileygraceliddle/Documents/mis221/cgi/project/mis221-cgi/obj/Debug/net8.0/refint/mis221-cgi.dll
+/Users/baileygraceliddle/Documents/mis221/cgi/project/mis221-cgi/obj/Debug/net8.0/mis221-cgi.pdb
+/Users/baileygraceliddle/Documents/mis221/cgi/project/mis221-cgi/obj/Debug/net8.0/mis221-cgi.genruntimeconfig.cache
+/Users/baileygraceliddle/Documents/mis221/cgi/project/mis221-cgi/obj/Debug/net8.0/ref/mis221-cgi.dll
